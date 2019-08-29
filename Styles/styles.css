@@ -1,0 +1,16 @@
+body {
+    background-color: #123bc4;
+    list-style: none;
+}
+
+a {
+    color: #fafbff;
+    text-decoration: none;
+    
+}
+
+li {
+    display: inline;
+    padding-left: 5px;
+    
+}
